@@ -1,3 +1,7 @@
 State pattern:
 
 State is a behavioral design pattern that lets an object alter its behavior when its internal state changes, cool isn't 
+
+Definition:
+The State Pattern is a behavioral design pattern that allows an object to alter its behavior when its internal state changes.
+This pattern is particularly useful when an object's behavior depends on its state and must change dynamically according to that state.
